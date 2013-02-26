@@ -1,5 +1,4 @@
 #Author: Titus Brown
-#Date: 26 February 2012
 birdnames = """\
 Common Teal
 Long-tailed Duck
